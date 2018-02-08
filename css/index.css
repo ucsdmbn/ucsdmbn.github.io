@@ -48,7 +48,7 @@ p, h1 {
     width: 100%;
     height: calc(100% - 95px);
     background: linear-gradient(rgba(10, 10, 10, 0.1), rgba(10, 10, 10, 0.1)), no-repeat center;
-    background-image: url(../dark-website-backgrounds-9.jpg);
+    background-image: url(../images/background.jpg);
     background-size: cover;
     background-position: center;
     color: black;
