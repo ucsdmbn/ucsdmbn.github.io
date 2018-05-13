@@ -47,12 +47,25 @@ p, h1 {
 .poster {
     width: 100%;
     height: calc(100% - 95px);
-    background: linear-gradient(rgba(10, 10, 10, 0.1), rgba(10, 10, 10, 0.1)), no-repeat center;
-    background-image: url(../images/background.jpg);
+    /*background: linear-gradient(rgba(10, 10, 10, 0.1), rgba(10, 10, 10, 0.1)), no-repeat center;
+    background-image: url(../images/background.jpg);*/
+	background-color: black;
     background-size: cover;
     background-position: center;
     color: black;
     text-align: center;
+}
+
+
+h2{
+	color: white;
+}
+p{
+	color: white;
+}
+
+.home{
+	width: 100px;
 }
 
 .poster-text {
