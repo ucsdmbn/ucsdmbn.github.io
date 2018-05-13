@@ -20,7 +20,6 @@ p, h1 {
 }
 
 .navbar .navbar-nav {
-    display: inline-block;
     float: none;
 }
 
@@ -41,12 +40,13 @@ p, h1 {
 }
 
 .navbar-brand:hover {
-    color: #A7DBD8!important;
+    color: gray !important;
 }
 
 .poster {
     width: 100%;
-    height: calc(100% - 95px);
+    /*height: calc(100% - 95px);*/
+	height: auto;
 	background-color: black;
     background-size: cover;
     background-position: center;
@@ -59,8 +59,9 @@ h2{
 	color: white;
 }
 p{
-	color: white;
+	color:white;
 }
+
 
 .home{
 	width: 100px;
@@ -90,6 +91,7 @@ p{
 .fab:hover {
     color: gray;
 }
+
 
 
 /* Huge Monitor*/

@@ -1,0 +1,19 @@
+.infographic{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 500px;
+	height: auto;
+}
+
+
+h2{
+	padding: 20px;
+}
+
+p{
+	padding: 10px;
+}
+
+.center {
+    margin: auto;
+}

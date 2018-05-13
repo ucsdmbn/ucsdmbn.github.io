@@ -1,0 +1,19 @@
+.card-img-top{
+	width: 200px;
+	height: auto;
+	
+}
+
+.center {
+    margin: auto;
+}
+
+
+.container-fluid{
+	padding-top: 30px;
+	padding-right: 35px;
+	padding-left: 35px;
+}
+p{
+	color: black;
+}
